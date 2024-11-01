@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/007/623/233/small_2x/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg)]
+![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/007/623/233/small_2x/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Fathima Dilsha K P</h1>
 <h3 align="center">An aspiring fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
